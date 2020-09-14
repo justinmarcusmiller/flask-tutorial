@@ -1,2 +1,3 @@
 server-debug.sh
 __pycache__
+.gitignore
